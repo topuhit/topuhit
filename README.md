@@ -2,7 +2,9 @@
 
 ✱ Full Stack Web Developer ✱ Graphic Designer. 👨‍💻 🕷️ 🎨 ☕️
 
-- ✨ 
+Currently working with Terra Prime, LLC and Codepilot, Inc as a Web developer and Graphic Designer.
+
+- ✨ Developed custom designed responsive websites using Node.js Mongodb and other open source technologies with optimized performance.
 
 
 ---
