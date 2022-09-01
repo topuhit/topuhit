@@ -25,7 +25,7 @@ Currently working with Terra Prime, LLC and Codepilot, Inc as a Web developer.
 Great repo to improve this README file: https://github.com/abhisheknaiidu/awesome-github-profile-readme
 -->
 
-<!--
-Count visitors badge:
+
+
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=topuhit)
--->
+
